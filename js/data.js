@@ -23,8 +23,8 @@ const PORTFOLIO = {
 
   /* About counters */
   stats: [
-    { value: 4, label: "Projects done" },
-    { value: 9, label: "Services offered" },
+    { value: 2, label: "Projects done" },
+    { value: 6, label: "Services offered" },
     { value: 2, label: "Years coding" }
   ],
 
@@ -50,7 +50,7 @@ const PORTFOLIO = {
   ],
 
   /* Pills under the skill cards */
-  tags: ["Git", "GitHub", "Linux", "VS Code", "Figma", "Teaching", "Problem solving"],
+  tags: ["Git", "GitHub", "VS Code", "Figma","Office 356", "Teaching what I know", "Problem solving"],
 
   /* Projects. image, description and link are optional. Filter buttons come from the categories. */
   projects: [
